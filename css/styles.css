@@ -1,0 +1,51 @@
+.header {
+    background-color: white;
+}
+
+.Container-1 {
+    display: inline-block;
+    width: 100%;
+}
+
+.Container-2 {
+    display: inline-block;
+    width: 100%;
+}
+
+.Column-1 {
+    max-width: 400px;
+    float: left;
+    background-color: #b0e0e6;
+    min-height: 400px;
+    padding: 10px;
+    border: 10px solid white;
+}
+
+.Column-2 {
+    max-width: 400px;
+    float: left;
+    background-color: #b0e0e6;
+    min-height: 400px;
+    padding: 10px;
+    border: 10px solid white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+}
