@@ -1,0 +1,22 @@
+.header {
+  font-family: Arial;
+  text-align: center;
+}
+
+.column1 {
+  float: left;
+  width: 70%;
+}
+
+.column2 {
+  padding: 6px;
+  border: 2px solid grey;
+  margin: 4px;
+  float: left;
+  width: 20%
+
+}
+
+.sidebar {
+  text-align: center;
+}
