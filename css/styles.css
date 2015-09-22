@@ -1,33 +1,39 @@
+body {
+    background-color: #E2E0E1;
+}
+
 .header {
     background-color: white;
 }
 
 .Container-1 {
-    display: inline-block;
-    width: 100%;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Container-2 {
-    display: inline-block;
-    width: 100%;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Column-1 {
     max-width: 400px;
     float: left;
-    background-color: #b0e0e6;
+    background-color: #A9B569;
     min-height: 400px;
     padding: 10px;
-    border: 10px solid white;
+    border: 10px solid #E2E0E1;
 }
 
 .Column-2 {
     max-width: 400px;
     float: left;
-    background-color: #b0e0e6;
+    background-color: #A9B569;
     min-height: 400px;
     padding: 10px;
-    border: 10px solid white;
+    border: 10px solid #E2E0E1;
 }
 
 h1 {
@@ -48,4 +54,15 @@ p {
 
 .navbar {
     text-align: center;
+}
+
+img.column-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+p.box {
+    padding: auto;
 }
