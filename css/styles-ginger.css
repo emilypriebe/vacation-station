@@ -1,0 +1,9 @@
+.jumbotron .ginger {
+  background-image: url(../img/holbox.jpeg);
+}
+
+.image {
+  height: 300px;
+  width: 300px;
+  float: left;
+}

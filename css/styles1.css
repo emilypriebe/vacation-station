@@ -1,6 +1,11 @@
 .header {
   font-family: Arial;
   text-align: center;
+  color: white;
+}
+
+.jumbotron {
+  background-image: url(../img/sicily1.jpeg);
 }
 
 .column1 {
