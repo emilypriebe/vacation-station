@@ -8,6 +8,16 @@
   background-image: url(../img/sicily1.jpeg);
 }
 
+.navbar-inner li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.navbar-inner {
+  text-align: center;
+  margin-top: 12px;
+}
+
 .column1 {
   float: left;
   width: 60%;
@@ -16,11 +26,9 @@
 .column2 {
   padding: 6px;
   border: 2px solid grey;
-  margin: 4px;
+  margin: 10px;
   float: left;
   width: 300px;
-  background-color: 
-
 }
 
 .sidebar {
