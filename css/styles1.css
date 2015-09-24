@@ -36,3 +36,10 @@
   text-align: center;
   color: #616E7E;
 }
+
+.image {
+  
+  width: 300px;
+  float: inherit;
+  margin: 10px;
+}
