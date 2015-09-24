@@ -8,14 +8,14 @@
   background-image: url(../img/sicily1.jpeg);
 }
 
-.navbar-inner li {
-  display: inline;
-  margin-right: 10px;
-}
-
 .navbar-inner {
   text-align: center;
   margin-top: 12px;
+}
+
+.navbar-inner li {
+  display: inline;
+  margin-right: 10px;
 }
 
 .column1 {
