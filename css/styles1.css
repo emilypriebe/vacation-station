@@ -15,7 +15,7 @@
 
 .navbar-inner li {
   display: inline;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .column1 {
@@ -35,4 +35,11 @@
 .sidebar {
   text-align: center;
   color: #616E7E;
+}
+
+.image {
+  
+  width: 300px;
+  float: inherit;
+  margin: 10px;
 }
