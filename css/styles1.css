@@ -29,8 +29,10 @@
   margin: 10px;
   float: left;
   width: 300px;
+  background-color: #FCFCF3;
 }
 
 .sidebar {
   text-align: center;
+  color: #616E7E;
 }
